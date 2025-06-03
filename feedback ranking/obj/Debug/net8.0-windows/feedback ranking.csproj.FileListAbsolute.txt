@@ -1,0 +1,35 @@
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\bin\Debug\net8.0-windows\feedback ranking.exe
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\bin\Debug\net8.0-windows\feedback ranking.deps.json
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\bin\Debug\net8.0-windows\feedback ranking.runtimeconfig.json
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\bin\Debug\net8.0-windows\feedback ranking.dll
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\bin\Debug\net8.0-windows\feedback ranking.pdb
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback_ranking.Form1.resources
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback_ranking.Properties.Resources.resources
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.csproj.GenerateResource.cache
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.AssemblyInfoInputs.cache
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.AssemblyInfo.cs
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.csproj.CoreCompileInputs.cache
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.dll
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\refint\feedback ranking.dll
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.pdb
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.genruntimeconfig.cache
+C:\Users\matt\source\repos\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\ref\feedback ranking.dll
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\bin\Debug\net8.0-windows\feedback ranking.exe
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\bin\Debug\net8.0-windows\feedback ranking.deps.json
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\bin\Debug\net8.0-windows\feedback ranking.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\bin\Debug\net8.0-windows\feedback ranking.dll
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\bin\Debug\net8.0-windows\feedback ranking.pdb
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback_ranking.Form1.resources
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback_ranking.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.sourcelink.json
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.dll
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\refint\feedback ranking.dll
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.pdb
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\feedback ranking.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\feedback\feedback ranking\feedback ranking\obj\Debug\net8.0-windows\ref\feedback ranking.dll
